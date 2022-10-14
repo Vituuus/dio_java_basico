@@ -1,4 +1,4 @@
-package edu.vitor.primeirasemana;
+package edu.vitor.primeiraaula;
 public class MinhaClasse {
 
     public static void main(String [] args){

@@ -1,4 +1,4 @@
-package edu.vitor.segundasemana;
+package edu.vitor.segundaaula;
 
 public class OperadoresTernarios {
     public static void main(String[] args) {

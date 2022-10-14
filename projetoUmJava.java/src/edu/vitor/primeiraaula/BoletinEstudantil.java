@@ -1,4 +1,4 @@
-package edu.vitor.primeirasemana;
+package edu.vitor.primeiraaula;
 public class BoletinEstudantil {
     public static void main(String[] args) {
         int mediaFinal = 6; //Declara a variavél que recebe a nota do aluno
